@@ -1,4 +1,12 @@
 ## Guides
+
+### Cheat Sheets / Notes
+* [HackTricks](https://book.hacktricks.wiki/en/index.html)
+* [@oncybersec](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)
+* [@Gabb4r](https://gabb4r.gitbook.io/oscp-notes)
+* [Petr Pospíšil](https://gist.github.com/SleepyLctl)
+* [Samsara FM](https://github.com/Samsar4/Ethical-Hacking-Labs/tree/master)
+
 ### Privilege Escalation (PE/Privsec)
 * [Privilege escalation on Windows: When you want it and when you don’t](https://delinea.com/blog/windows-privilege-escalation)
 * [MSSQL – Windows Privilege Escalation](https://juggernaut-sec.com/mssql/#Scenario_One_–_Finding_Credentials_in_a_Database)
@@ -11,7 +19,3 @@
 
 ### Restricted Shells
 * [Escaping Restricted Linux Shells](https://www.sans.org/blog/escaping-restricted-linux-shells/)
-
-### Miscellaneous
-* [Petr Pospíšil](https://gist.github.com/SleepyLctl)
-* [Samsara FM](https://github.com/Samsar4/Ethical-Hacking-Labs/tree/master)
