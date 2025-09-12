@@ -7,11 +7,13 @@
 * [Peass-ng](https://github.com/peass-ng)
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) [Documentation](https://powersploit.readthedocs.io/en/latest/)
 
-### Tunnel/Pivot
+### Tunnel/Pivot, Lateral Movement
 * [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
+* [RunasCs](https://github.com/antonioCoco/RunasCs)
 
 ### Active Directory
 * [Kerbrute](https://github.com/ropnop/kerbrute)
+* [Rubeus](https://github.com/GhostPack/Rubeus)
 * [BloodHound Community Edition](https://bloodhound.specterops.io/home)
 * [BloodHound Query Library](https://queries.specterops.io)
 
