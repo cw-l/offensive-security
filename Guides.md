@@ -2,6 +2,7 @@
 
 ### Cheat Sheets / Notes
 * [HackTricks](https://book.hacktricks.wiki/en/index.html)
+* [HackFast](https://hackfa.st/Offensive-Security/Network/tools/nmap/)
 * [@oncybersec](https://github.com/oncybersec/oscp-enumeration-cheat-sheet)
 * [@Gabb4r](https://gabb4r.gitbook.io/oscp-notes)
 * [Petr Pospíšil](https://gist.github.com/SleepyLctl)
