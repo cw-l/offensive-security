@@ -14,6 +14,9 @@
 ### Active Directory
 * [Kerbrute](https://github.com/ropnop/kerbrute)
 * [Rubeus](https://github.com/GhostPack/Rubeus)
+* [SeRestoreAbuse](https://github.com/xct/SeRestoreAbuse)
+* [gMSAPasswordReader](https://github.com/rvazarkar/GMSAPasswordReader)
+* [gMSA Active Directory Attacks](https://www.semperis.com/blog/golden-gmsa-attack/) [Golden GMSA](https://github.com/Semperis/GoldenGMSA)
 * [BloodHound Community Edition](https://bloodhound.specterops.io/home)
 * [BloodHound Query Library](https://queries.specterops.io)
 
