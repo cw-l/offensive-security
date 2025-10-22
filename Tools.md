@@ -6,6 +6,10 @@
 ### Post Foothold - Enumeration
 * [Peass-ng](https://github.com/peass-ng)
 * [PowerSploit](https://github.com/PowerShellMafia/PowerSploit) [Documentation](https://powersploit.readthedocs.io/en/latest/)
+* [SessionGopher](https://github.com/Arvanaghi/SessionGopher)
+
+### Pre Foothold - Initial Access
+* [Evilginx 3.x](https://github.com/kgretzky/evilginx2)
 
 ### Tunnel/Pivot, Lateral Movement
 * [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
