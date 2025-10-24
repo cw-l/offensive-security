@@ -18,6 +18,9 @@
 * [iodine](https://github.com/yarrick/iodine)
 * [RunasCs](https://github.com/antonioCoco/RunasCs)
 
+### Detection Evasion / Bypass
+* [DefenderCheck](https://github.com/matterpreter/DefenderCheck)
+
 ### Active Directory
 * [Kerbrute](https://github.com/ropnop/kerbrute)
 * [Rubeus](https://github.com/GhostPack/Rubeus)
