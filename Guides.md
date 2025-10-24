@@ -8,6 +8,9 @@
 * [Petr Pospíšil](https://gist.github.com/SleepyLctl)
 * [Samsara FM](https://github.com/Samsar4/Ethical-Hacking-Labs/tree/master)
 
+### Tunneling, Pivot, Lateral Movement, Data Exfiltration
+* [Tunneling Data and Commands Over DNS to Bypass Firewalls](https://zeltser.com/c2-dns-tunneling/)
+
 ### Privilege Escalation (PE/Privsec)
 #### Windows
 * 🔥 [HackFast - Token Impersonation](https://hackfa.st/Offensive-Security/Windows-Environment/Privilege-Escalation/Token-Impersonation/readme/)
