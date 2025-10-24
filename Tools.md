@@ -13,6 +13,9 @@
 
 ### Tunnel/Pivot, Lateral Movement
 * [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
+* [Chisel](https://github.com/jpillora/chisel)
+* [dnscat2](https://github.com/iagox86/dnscat2)
+* [iodine](https://github.com/yarrick/iodine)
 * [RunasCs](https://github.com/antonioCoco/RunasCs)
 
 ### Active Directory
