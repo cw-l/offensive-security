@@ -2,6 +2,7 @@
 
 ### Pre Foothold - Enumeration
 * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
+* [Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)
 
 ### Post Foothold - Enumeration
 * [Peass-ng](https://github.com/peass-ng)
@@ -20,6 +21,8 @@
 
 ### Detection Evasion / Bypass
 * [DefenderCheck](https://github.com/matterpreter/DefenderCheck)
+* [IronPython](https://ironpython.net)
+* [BadRentdrv2](https://github.com/keowu/BadRentdrv2/)
 
 ### Active Directory
 * [Kerbrute](https://github.com/ropnop/kerbrute)
