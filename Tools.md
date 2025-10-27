@@ -3,6 +3,7 @@
 ### Pre Foothold - Enumeration
 * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 * [Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)
+* [garak, LLM vulnerability scanner](https://github.com/NVIDIA/garak)
 
 ### Post Foothold - Enumeration
 * [Peass-ng](https://github.com/peass-ng)
