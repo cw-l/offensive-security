@@ -4,6 +4,9 @@
 * [AutoRecon](https://github.com/Tib3rius/AutoRecon)
 * [Python Risk Identification Tool for generative AI (PyRIT)](https://github.com/Azure/PyRIT)
 * [garak, LLM vulnerability scanner](https://github.com/NVIDIA/garak)
+* [gittyleaks](https://github.com/kootenpv/gittyleaks)
+* [ntlmscan](https://github.com/nyxgeek/ntlmscan)
+* [waybackurls](https://github.com/tomnomnom/waybackurls)
 
 ### Post Foothold - Enumeration
 * [Peass-ng](https://github.com/peass-ng)
@@ -26,6 +29,10 @@
 * [IronPython](https://ironpython.net)
 * [BadRentdrv2](https://github.com/keowu/BadRentdrv2/)
 
+### Persistence
+* [linux-pam-backdoor](https://github.com/segmentati0nf4ult/linux-pam-backdoor)
+* [mod_rootme](https://github.com/sajith/mod-rootme)
+
 ### Attack
 * [MITRE Caldera™](https://github.com/mitre/caldera)
 * [Atomic Red Team](https://github.com/redcanaryco/atomic-red-team)
@@ -46,3 +53,4 @@
 ### Miscellaneous
 * [JDWP exploitation script](https://github.com/IOActive/jdwp-shellifier)
 * [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
+* [username-lists](https://github.com/nyxgeek/username-lists/)
