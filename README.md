@@ -5,4 +5,4 @@ This repository contains tools, scripts, cheatsheets, exploits, etc., that I use
 * [A list of CVEs](ExploitsListing.md) that you might use to gain intial foothold or PE. 
 * CVE folders containing enhanced scripts (by me via vibe coding) to gain intial access or PE.
 * [A list of tools](Tools.md) that you may find handy in your toolbox.
-* [Guides](Guides.md) that could writeups or cheatsheets.
+* [Guides](Guides.md) that could be writeups or cheatsheets.
