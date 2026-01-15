@@ -7,6 +7,7 @@
 * [gittyleaks](https://github.com/kootenpv/gittyleaks)
 * [ntlmscan](https://github.com/nyxgeek/ntlmscan)
 * [waybackurls](https://github.com/tomnomnom/waybackurls)
+* [WAFWOOF - WAF Fingerprinting Tool](https://github.com/EnableSecurity/wafw00f)
 
 ### Post Foothold - Enumeration
 * [Peass-ng](https://github.com/peass-ng)
@@ -54,3 +55,4 @@
 * [JDWP exploitation script](https://github.com/IOActive/jdwp-shellifier)
 * [Payloads All The Things](https://github.com/swisskyrepo/PayloadsAllTheThings)
 * [username-lists](https://github.com/nyxgeek/username-lists/)
+* [explain shell](https://explainshell.com)
