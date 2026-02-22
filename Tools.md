@@ -18,6 +18,10 @@
 * [Evilginx 3.x](https://github.com/kgretzky/evilginx2)
 * [gophish](https://github.com/gophish/gophish)
 
+### Post Foothold - Privilege Escalation
+* [Windows Exploit Suggester - Next Generation (WES-NG)](https://github.com/bitsadmin/wesng)
+* [Windows PrivescCheck](https://github.com/itm4n/PrivescCheck)
+
 ### Tunnel/Pivot, Lateral Movement
 * [ligolo-ng](https://github.com/nicocha30/ligolo-ng)
 * [Chisel](https://github.com/jpillora/chisel)
