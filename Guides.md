@@ -8,6 +8,9 @@
 * [Petr Pospíšil](https://gist.github.com/SleepyLctl)
 * [Samsara FM](https://github.com/Samsar4/Ethical-Hacking-Labs/tree/master)
 
+### Path Traversal & Arbritary File Read Attacks
+* [YesWeHack - A Practical Guide to Path Traversal and Arbitrary File Read Attacks](https://www.yeswehack.com/learn-bug-bounty/practical-guide-path-traversal-attacks)
+
 ### Tunneling, Pivot, Lateral Movement, Data Exfiltration
 * [Tunneling Data and Commands Over DNS to Bypass Firewalls](https://zeltser.com/c2-dns-tunneling/)
 
