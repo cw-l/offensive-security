@@ -11,7 +11,7 @@ Usage:
     curl -s https://example.com | python3 get_comments.py --js-only
     curl -s https://example.com | python3 get_comments.py --no-color
 
-Author: @cw_l
+Author: @cw-l github.com/cw-l
 Generated with assistance from Claude (Anthropic)
 License: GNU Affero General Public License v3.0 (AGPLv3)
 
